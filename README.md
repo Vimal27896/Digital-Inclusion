@@ -18,7 +18,7 @@ Cost optimization through data-driven deployment and reduced CAPEX/OPEX.
 
 Enhanced user experience with uninterrupted internet, stable calls, and secure transactions.
 
-Impact & Benefits
+-->Impact & Benefits
 
 Ensures seamless connectivity and digital inclusion as a fundamental right.
 
@@ -26,5 +26,6 @@ Enables safe communication, real-time digital services, and emergency responsive
 
 Supports sustainable infrastructure planning with AI-assisted predictive maintenance.
 
-Goal
+-->Goal
+
 Transform digital access from a privilege into a universal right, bridging connectivity gaps across India’s transit systems and beyond.
